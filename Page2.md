@@ -43,7 +43,8 @@ Example :
 |13        |D          |1101   |
 |14        |E          |1110   |
 |15        |F          |1111   |
-|          |           |       |
+
+_Table 1: Showing the representation of 0 to 15 in decimal, hexadecimal, and binary_
 
 ### **Transporting Bits**
 * Electricity
@@ -53,18 +54,39 @@ Example :
 ### **Protocols**
 Protocols are the rules and procedures used to establish a standard. The internet being a global collection of individual networks need standards so that everyone knows the rules that need to be followed so that messages can be sent between devices irrespective of the manufacturer or model.
 
-* TCP/IP
+* TCP/IP and UDP
   * Transfer Control Prototcol (TCP)
+  : The most widely used protocol for communicating over a network. This protocol divides the the message being sent into packets and checks the packets when they arrive at the destination. 
   * Internet Protocol (IP)
-    * IPv4 : A 32 bit address that is typically represented using decimal.
-    * IPv6 : A 128 bit address that is typically represented using hexadecimal.
+  : This protocol is used with TCP or UDP when packets are being sent over a network. It is the protocol that is used to assign addresses to the devices on a network. There are different factors that determine an IP address including the address type and the subnet.
+      * IPv4 
+      : A 32 bit address that is typically represented using decimal. Ranges from 0.0.0.0 to 255.255.255.255.
+      * IPv6 
+      : A 128 bit address that is typically represented using hexadecimal. Ranges from 0:0:0:0:0:0:0:0 to FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF.
+  * User Datagram Protocol (UDP)
+  : Unlike TCP, UDP does not error check packets when they arrive at the destination.
 
 * HTTP, HTTPS, SSL
+  * Hypertext Transfer Protocol (HTTP) and Hypertext Transfer Protocol Secure (HTTPS)
+  : HTTP transfers data between the client browser and the web server in hypertext format. HTTPS does that same in an encrypted format.
 * DNS
-* IMAP and POP
-    * Post Office Protocol 3 (POP3)
-    * IMAP
+* POP, IMAP, SMTP
+: These protocols are used for emails. POP and IMAP are used to retrieve emails from the server and 
+  * Post Office Protocol (POP)
+  : The latest verion of POP is version 3 (POP3). 
+  * IMAP
+  * SMTP
 
+| Protocol | Port |
+|---       |---   |
+| FTP      | 20 and 21|
+| HTTP     | 80       |
+| HTTPS    | 443      |
+| IMAP     | 143/993  |
+| POP3     | 110/995  |
+| SMTP     | 25/465   |
+
+_Table 2: Showing the respective port numbers for each protocol. xxx/yyy represent the port for unencrypted/encrypted traffic._ 
 
 ---
 ## **Things You Can See or Touch**
@@ -86,12 +108,30 @@ In our lives we use locks, alarms, and surveillance to keep physical properties 
 #### **Certificate Authority (CA)**
 
 ### **Firewall**
-The purpose of a firewall is to block unwanted bits from travelling in a specific direction. This means that it can prevent attackers from penetrating a private network. Firewalls can either be a software or a combination of hardware and software. They are used to protect individual computers or networks.
-### **Virtual Private Network (VPN)**
+The purpose of a firewall is to block unwanted network traffic from travelling in a specific direction. This means that it can prevent attackers from penetrating a private network. Firewalls can either be a software or a combination of hardware and software. They are used to protect individual computers or networks.
 
+Types of firewall:
+  * Proxy firewall
+  * Stateful inspection firewall
+  * Unified threat management firewall (UTM)
+  * Next-generation firewall (NGFW)
+  * Threat-focused NGFW
+  * Virtual firewall
+
+### **Virtual Private Network (VPN)**
+---
+## **The Organizations Maintaining Order**
+### **The World Wide Web Consortium (W3C)**
+### **Internet Corporation For Assigned Names and NUmbers (ICANN)**
 ---
 ### **References**
+[1] https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html
 
+[2] https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
+
+[3] https://www.educba.com/types-of-networking-protocols/
+
+---
 Footer Menu
 
 
