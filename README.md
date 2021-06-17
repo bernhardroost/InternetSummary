@@ -53,7 +53,7 @@ The page traces the history of the internet chronologically
  * *[1980s and early 1990s - Birth of the Internet and World Wide Web](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1980s-and-early-1990s---birth-of-the-internet-and-world-wide-web)*
  * *[1990s The Browser War](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1990s-the-browser-war)*
  * *[1990s e-commerce](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1990s-e-commerce)*
- * *[https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#2000s-the-birth-of-social-media](2000s The Birth of Social Media)*
+ * *[2000s The Birth of Social Media](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#2000s-the-birth-of-social-media)*
 ### Sidebar Content
 ### Sidebar Image
 #### Image Link
