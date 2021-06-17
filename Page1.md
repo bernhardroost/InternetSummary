@@ -64,3 +64,31 @@ The Search Engines - Google
 * The Internet has become central to political discussion and debate. It has drastically changed how news and other information is provided. Examples of platforms that facilitate this are Twitter and Facebook. Starting with the 2008 Presidential race Social Media became part of the central cores of political campaign strategies. This included the dissemination of data and, perhaps more importantly, the collection of data of online users and potential voters. The internet has created a new commodity: massive amounts of potentially useful data.
 * In addition to the advent of social media the relatively unregulated Internet and free access to data and information has posed new challenges to intellectual property protections. In particular, services such as Napster have sprung up, that let users freely share entertainment (e.g. music and movies). Naturally, this has been met with heavy resistance from the entertainment industry and artists themselves (e.g. opposition Metallica, Dr. Dre).
 
+
+
+## **References**
+
+[1]*[The Invention of the Internet](https://njit.instructure.com/courses/17934/files/2434977/download?download_frd=1)*
+
+[2]*[The True Story of the Internet Browser Wars Part 1](https://njit.instructure.com/courses/17934/files/2434974/download?download_frd=1)*
+
+[3]*[The True Story of the Internet Internet Search Part 2](https://njit.instructure.com/courses/17934/modules/items/531533)*
+
+[4]*[The True Story of the Internet Dot Com Bubble Part 3](https://njit.instructure.com/courses/17934/modules/items/531534)*
+
+[5]*[The True Story of the Internet People Part 4](https://njit.instructure.com/courses/17934/modules/items/531535)*
+
+[6]*[The Internet - What is the Internet Part 1](https://njit.instructure.com/courses/17934/modules/items/531541)*
+
+[7]*[The Internet - Wires Cables Wifi Part 2](https://njit.instructure.com/courses/17934/modules/items/531542)*
+
+[8]*[The Internet - IP Addresses and DNS Part 3](https://njit.instructure.com/courses/17934/modules/items/531543)*
+
+[9]*[The Internet - Packets Routing and Reliability Part 4](https://njit.instructure.com/courses/17934/modules/items/531544)*
+
+[9]*[The Internet - HTTP and HTML Part 5](https://njit.instructure.com/courses/17934/modules/items/531545)*
+
+[10]*[ICANN](https://en.wikipedia.org/wiki/ICANN)*
+
+[11]*[W3C](https://www.w3.org/Consortium/)*
+

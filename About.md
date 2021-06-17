@@ -1,25 +1,5 @@
-### Sources: 
+## Background
 
-*[The Invention of the Internet](https://njit.instructure.com/courses/17934/files/2434977/download?download_frd=1)*
+This web page site was designed by Nickeita Tomlinson and Bernhard Roost, both students in the Summer 2021 class IS601 Web Systems Development at the New Jersey Institute of Technology. The assignment was to design a web site using Markdown. The web site content was a summary of various documentaries about the internet. The documentaries that were sourced are included in the references section along with supplementary documents used. Nickeita provided most of the content for the functionality of the Internet while Bernhard provided the content for the history of the Internet's development.
 
-*[The True Story of the Internet Browser Wars Part 1](https://njit.instructure.com/courses/17934/files/2434974/download?download_frd=1)*
-
-*[The True Story of the Internet Internet Search Part 2](https://njit.instructure.com/courses/17934/modules/items/531533)*
-
-*[The True Story of the Internet Dot Com Bubble Part 3](https://njit.instructure.com/courses/17934/modules/items/531534)*
-
-*[The True Story of the Internet People Part 4](https://njit.instructure.com/courses/17934/modules/items/531535)*
-
-*[The Internet - What is the Internet Part 1](https://njit.instructure.com/courses/17934/modules/items/531541)*
-
-*[The Internet - Wires Cables Wifi Part 2](https://njit.instructure.com/courses/17934/modules/items/531542)*
-
-*[The Internet - IP Addresses and DNS Part 3](https://njit.instructure.com/courses/17934/modules/items/531543)*
-
-*[The Internet - Packets Routing and Reliability Part 4](https://njit.instructure.com/courses/17934/modules/items/531544)*
-
-*[The Internet - HTTP and HTML Part 5](https://njit.instructure.com/courses/17934/modules/items/531545)*
-
-*[ICANN](https://en.wikipedia.org/wiki/ICANN)*
-
-*[W3C](https://www.w3.org/Consortium/)*
+Bernhard is a student in the Masters in Computer Science program at NJIT.
