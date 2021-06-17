@@ -67,7 +67,10 @@ Cerf received a Bachelor of Science degree in mathematics from Stanford Universi
 
 ### Page Image
 #### Page Image Link
+https://thereboot.com/internet-evolution-a-timeline-history-of-the-network/
 #### Page Image Alt attribute
+graph showing milestones of internet development starting with initial connection (UCLA, UCSB, SRI, UTAH)
+
 ---
 ### **Page 2**
 
@@ -105,7 +108,9 @@ Internet of Things, Major ISP in the U.S.A., Types of IP addresses, Classes of I
 
 ### **Page Image**
 #### Page Image Link
+
 #### Page Image Alt attribute
+
 
 
 
