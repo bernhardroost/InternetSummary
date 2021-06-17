@@ -91,5 +91,4 @@ The Search Engines - Google
 [10]*[ICANN](https://en.wikipedia.org/wiki/ICANN)*
 
 [11]*[W3C](https://www.w3.org/Consortium/)*
-=======
 
