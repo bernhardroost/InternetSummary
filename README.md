@@ -56,9 +56,14 @@ The page traces the history of the internet chronologically
  * *[2000s The Birth of Social Media](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#2000s-the-birth-of-social-media)*
 ### Sidebar Content
 ### Sidebar Image
+Vint Cerf
 #### Image Link
+https://en.wikipedia.org/wiki/Vint_Cerf#/media/File:Dr_Vint_Cerf_ForMemRS.jpg
 #### Image Image Alt attribute
+Picture of Vint Cerf
 #### Sidebar Text
+"Cerf was born in New Haven, Connecticut, the son of Muriel (née Gray) and Vinton Thurston Cerf. Cerf attended Van Nuys High School with Jon Postel and Steve Crocker. While in high school, Cerf worked at Rocketdyne on the Apollo program and helped write statistical analysis software for the non-destructive tests of the F-1 engines.
+Cerf received a Bachelor of Science degree in mathematics from Stanford University. After college, Cerf worked at IBM as a systems engineer supporting QUIKTRAN for two years. Cerf and his wife Sigrid both have hearing deficiencies; they met at a hearing aid agent's practice in the 1960s, which led him to becoming an advocate for accessibility. He left IBM to attend graduate school at UCLA where he earned his M.S. degree in 1970 and his PhD in 1972. Cerf studied under Professor Gerald Estrin and worked in Professor Leonard Kleinrock's data packet networking group that connected the first two nodes of the ARPANet, the first node on the Internet, and "contributed to a host-to-host protocol" for the ARPANet. While at UCLA, Cerf met Bob Kahn, who was working on the ARPANet system architecture.Cerf wrote the first TCP protocol with Yogen Dalal and Carl Sunshine, called Specification of Internet Transmission Control Program (RFC 675), published in December 1974." - Wikipedia
 
 ### Page Image
 #### Page Image Link
