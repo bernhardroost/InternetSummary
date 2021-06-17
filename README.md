@@ -39,12 +39,21 @@ Discover the history  of the technological breakthroughs, personalities, and riv
 ### **Page 1**
 
 #### Menu Link
-Page Title : 
+Page Title : The History of the Internet
 #### Description
+This page describes the history of the internet from its inception through it current form.
 #### Keywords
+ARPA, Leonard Kleinrock, Bob Taylor, Vinton Cerf, TCP/IP, DNS, Tim Bernes-Lee, Mosaic, Jim Clarke, Netscape, Larry Page, Sergey Brin
 #### Page Layout
+The F-shaped pattern
 #### Page Content
-
+The page traces the history of the internet chronologically
+ * *[Early Visions and Breakthroughs (1950s – 1960s)](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#early-visions-and-breakthroughs-1950s--1960s)*
+ * *[Early Development of the Internet – The ARPANET (1970s)](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#early-development-of-the-internet--the-arpanet-1970s)*
+ * *[1980s and early 1990s - Birth of the Internet and World Wide Web](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1980s-and-early-1990s---birth-of-the-internet-and-world-wide-web)*
+ * *[1990s The Browser War](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1990s-the-browser-war)*
+ * *[1990s e-commerce](https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#1990s-e-commerce)*
+ * *[https://github.com/bernhardroost/InternetSummary/blob/main/Page1.md#2000s-the-birth-of-social-media](2000s The Birth of Social Media)*
 ### Sidebar Content
 ### Sidebar Image
 #### Image Link
