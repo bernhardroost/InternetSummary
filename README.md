@@ -12,7 +12,7 @@ The website documents the development of the Internet. It tells the story of how
 
 #### **Description**
 
-The web site provides an overview of the development of the internet
+# The web site provides an overview of the development of the internet
 
 #### **Keywords**
 

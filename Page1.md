@@ -65,6 +65,7 @@ The Search Engines - Google
 * In addition to the advent of social media the relatively unregulated Internet and free access to data and information has posed new challenges to intellectual property protections. In particular, services such as Napster have sprung up, that let users freely share entertainment (e.g. music and movies). Naturally, this has been met with heavy resistance from the entertainment industry and artists themselves (e.g. opposition Metallica, Dr. Dre).
 
 
+
 ## **References**
 
 [1]*[The Invention of the Internet](https://njit.instructure.com/courses/17934/files/2434977/download?download_frd=1)*
@@ -90,3 +91,5 @@ The Search Engines - Google
 [10]*[ICANN](https://en.wikipedia.org/wiki/ICANN)*
 
 [11]*[W3C](https://www.w3.org/Consortium/)*
+=======
+
