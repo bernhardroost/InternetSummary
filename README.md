@@ -12,7 +12,7 @@ The website documents the development of the Internet. It tells the story of how
 
 #### **Description**
 
-# The web site provides an overview of the development of the internet
+The web site provides an overview of the development of the internet
 
 #### **Keywords**
 
@@ -80,7 +80,7 @@ Page Title : What Makes The Internet Work?
 This page provides information on the technology behind how the internet exist and works.
 
 #### Keywords
-Internet Protocol, Network Protocol, PKI, VPN, W3C, ICANN, Firewall, Certificate Authority, Bits, Cryptography
+Internet Protocol, Network Protocol, PKI, VPN, W3C, ICANN, Firewall, Certificate Authority, Bits, Cryptography, Symmetric key, Asymmetric key
 
 #### Page Layout
 The F-shaped pattern
@@ -97,20 +97,27 @@ The page provides information on the following topics:
   * Certificate Authority
   * Firewall
   * Virtual Private Network
+  * W3C
+  * ICANN
 
 ### **Sidebar Content**
-Internet of Things, Major ISP in the U.S.A., Types of IP addresses, Classes of IP addresses, Types of security threats on a network
+The Internet of Things (IoT)
 
 ### **Sidebar Image**
+Edge devices on a network
 #### Image Link
+https://static.vecteezy.com/system/resources/previews/000/482/583/original/internet-of-things-isometric-infographic-poster-vector.jpg
 #### Image Image Alt attribute
+IoT infographic
 #### Sidebar Text
+Modern networks : The Internet of Things
 
+"In a nutshell, the Internet of Things is the concept of connecting any device (so long as it has an on/off switch) to the Internet and to other connected devices. The IoT is a giant network of connected things and people – all of which collect and share data about the way they are used and about the environment around them."
 ### **Page Image**
 #### Page Image Link
-
+https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/
 #### Page Image Alt attribute
-
+Image showing modern devices in our everyday lives that are connected to the internet.
 
 
 
